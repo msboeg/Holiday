@@ -222,8 +222,6 @@ namespace PublicHoliday
 	           new KeyValuePair<DateTime?,string>(GoodFriday(easter), "Langfredag"),
 	           new KeyValuePair<DateTime?,string>(easter, "Påskedag"),
 	           new KeyValuePair<DateTime?,string>(EasterMonday(easter), "Anden påskedag"),
-	           new KeyValuePair<DateTime?,string>(LabourDay(year), "Første maj"),
-	           new KeyValuePair<DateTime?,string>(ConstitutionDay(year), "Grundlovsdag"),
 	           new KeyValuePair<DateTime?,string>(GeneralPrayerDay(easter), "Store bededag"),
 	           new KeyValuePair<DateTime?,string>(Ascension(easter), "Kristi himmelfartsdag"),
 	           new KeyValuePair<DateTime?,string>(WhitSunday(easter), "Pinsedag"),
